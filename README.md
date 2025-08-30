@@ -467,3 +467,23 @@ The original project identified these misconceptions through careful analysis of
 ## 📝 License
 
 This work is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (public domain), following the license of the original [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) project.
+
+See the [LICENSE](LICENSE) file for the full license text.
+
+---
+
+## 🤖 Generation Details
+
+This comprehensive document was automatically generated using [Claude Code](https://claude.ai/code) by systematically analyzing and transforming the misconceptions documented in the Awesome Falsehoods project into positive, educational facts.
+
+**Process:**
+1. **Extraction**: Analyzed 26 individual falsehoods articles from the original repository
+2. **Transformation**: Converted each misconception into a corresponding positive fact with explanatory context
+3. **Organization**: Creatively grouped 243 facts into 6 logical categories for maximum educational value
+4. **Formatting**: Applied consistent structure with proper Markdown hierarchy and emojis for navigation
+
+**Transformation Philosophy**: Instead of focusing on what programmers *shouldn't* believe, this document presents what they *should* know about real-world system complexities.
+
+The human insight and domain expertise came from the original Awesome Falsehoods contributors. Claude Code provided the systematic analysis, creative reorganization, and positive reframing that makes this knowledge more accessible and actionable for developers.
+
+*Because every developer deserves to understand how systems really work.* 🚀
